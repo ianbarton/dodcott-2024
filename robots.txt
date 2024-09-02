@@ -1,0 +1,4 @@
+Sitemap: http://dodcott.org/sitemapindex.xml
+
+User-Agent: *
+Host: dodcott.org
