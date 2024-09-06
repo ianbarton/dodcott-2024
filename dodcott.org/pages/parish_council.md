@@ -13,7 +13,7 @@ Your Parish Councillors are:
 | John Childs| 01270 811927 | johnch042004@yahoo.co.uk|
 | Sarah Callendar Beckett| 01948 662880| sarahcb@combermereabbey.co.uk |
 | Ian Barton (chairman)| 0798 938 5393 | ian@manor-farm.org |
-| Rob Vernon| 01270 812079| vernon1001@hotmail.com |
+| Andrew Vernon| 07791 723030|andrewvernon30@gmail.com  |
 | Clive Pownall| 01948 871775 | liveyvonne@hotmail.com|
 |Tony Nakhimoff|0787 967 4955|tonyandsian6dol@btinternet.com|
 |Brian Hughes|01948 871274 |brianhughes246@yahoo.co.uk|
