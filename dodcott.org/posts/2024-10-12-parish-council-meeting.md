@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-The Parish Council AGM will be held on Monday 16th September 2024 at Burleydam Church. The meeting starts at 7:00pm.
+The Parish Council meeting will be held on Monday 16th September 2024 at Burleydam Church. The meeting starts at 7:00pm.
 
 This  is incorreect and will be updated soon:
 
