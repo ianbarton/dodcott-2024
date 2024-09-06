@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1725288807.2466424
+_modified_time = 1725384398.5437136
 _enable_loop = True
 _template_filename = '/usr/lib/python3.12/site-packages/nikola/data/themes/base/templates/tagindex.tmpl'
 _template_uri = 'tagindex.tmpl'
@@ -32,18 +32,18 @@ def render_body(context,**pageargs):
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        parent = _import_ns.get('parent', context.get('parent', UNDEFINED))
-        description = _import_ns.get('description', context.get('description', UNDEFINED))
-        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
         def content_header():
             return render_content_header(context._locals(__M_locals))
+        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
+        description = _import_ns.get('description', context.get('description', UNDEFINED))
+        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
+        def extra_head():
+            return render_extra_head(context._locals(__M_locals))
+        parent = _import_ns.get('parent', context.get('parent', UNDEFINED))
         messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
         tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
         title = _import_ns.get('title', context.get('title', UNDEFINED))
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
-        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
-        def extra_head():
-            return render_extra_head(context._locals(__M_locals))
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n\n')
@@ -67,15 +67,15 @@ def render_content_header(context,**pageargs):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        description = _import_ns.get('description', context.get('description', UNDEFINED))
-        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
         def content_header():
             return render_content_header(context)
+        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
+        description = _import_ns.get('description', context.get('description', UNDEFINED))
+        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
         messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
         tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
         title = _import_ns.get('title', context.get('title', UNDEFINED))
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
-        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         __M_writer = context.writer()
         __M_writer('\n    <header>\n        <h1>')
         __M_writer(filters.html_escape(str(title)))
@@ -110,12 +110,12 @@ def render_extra_head(context,**pageargs):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
         parent = _import_ns.get('parent', context.get('parent', UNDEFINED))
         kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
-        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         def extra_head():
             return render_extra_head(context)
+        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
+        tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n    ')
         __M_writer(str(parent.extra_head()))
