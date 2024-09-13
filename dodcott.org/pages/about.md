@@ -46,5 +46,3 @@ The site itself doesn't use cookies.
 
 ## Links to Other Websites
 This website may contain links to other websites. Please note that the Parish Council has no control over other websites and the Parish Council cannot be held responsible for the protection and privacy of any information which you provide whilst visiting such sites. Third-party websites will not be governed by this privacy policy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-## Contributing.
