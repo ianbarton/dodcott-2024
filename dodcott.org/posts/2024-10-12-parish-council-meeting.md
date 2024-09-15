@@ -11,12 +11,6 @@
 
 The Parish Council meeting will be held on Monday 16th September 2024 at Burleydam Church. The meeting starts at 7:00pm.
 
-This  is incorrect and will be updated soon:
+You can view the agenda [here](https://drive.google.com/file/d/1Y3rokoTD9hy_bTcCKj5CdSV_wPSOUfai/view?usp=sharing)
 
-You can view the agenda [here](https://drive.google.com/file/d/1Li7n3bT9sIPT-Ma7E4BwDQ3nt-caEzM2/view?usp=drive_link)
-
-You can view the minutes of the May meeting
-
-This  is incorrect and will be updated soon:
-
-[here](https://drive.google.com/file/d/1ii3VL00JcCNGLfSLEWFUgCvjjCB6bG-Q/view?usp=drive_link)
+You can view the minutes of the May meeting [here](https://drive.google.com/file/d/1oQ9LlZLkFacy9seSBI-lDTG0Yb2Dqdxy/view?usp=drive_link)
