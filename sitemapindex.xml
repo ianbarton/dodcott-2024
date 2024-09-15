@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://dodcott.org/categories/accounts.xml</loc>
-  <lastmod>2024-05-26T16:00:00Z</lastmod>
+  <lastmod>2024-09-13T15:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/categories/affordablehousing.xml</loc>
@@ -19,7 +19,7 @@
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/categories/cat_accounts.xml</loc>
-  <lastmod>2024-05-26T16:00:00Z</lastmod>
+  <lastmod>2024-09-13T15:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/categories/cat_parishcouncil-agm.xml</loc>
@@ -35,11 +35,11 @@
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/categories/parishcouncil.xml</loc>
-  <lastmod>2024-05-26T16:00:00Z</lastmod>
+  <lastmod>2024-09-15T13:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/categories/transparency.xml</loc>
-  <lastmod>2024-05-26T16:00:00Z</lastmod>
+  <lastmod>2024-09-13T15:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/galleries/goldsmith_signpost/rss.xml</loc>
@@ -59,10 +59,10 @@
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/rss.xml</loc>
-  <lastmod>2024-05-26T16:00:00Z</lastmod>
+  <lastmod>2024-09-15T13:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/sitemap.xml</loc>
-  <lastmod>2024-09-06T16:50:00Z</lastmod>
+  <lastmod>2024-09-15T13:19:00Z</lastmod>
  </sitemap>
 </sitemapindex>

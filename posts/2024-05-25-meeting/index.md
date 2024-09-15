@@ -8,5 +8,4 @@
 .. description:
 .. type: text
 -->
-Accounts for 2023-2024 can be viewed here:
-https://drive.google.com/file/d/1lcqoirSqMyMAVlYns1yzxXlc-I-NRxlJ/view?usp=sharing
+Accounts for 2023-2024 can be viewed [here](https://drive.google.com/file/d/1lcqoirSqMyMAVlYns1yzxXlc-I-NRxlJ/view?usp=sharing)
